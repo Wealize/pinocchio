@@ -17,9 +17,9 @@
     "node": "10"
   },
   "devDependencies": {
-    "@types/cheerio": "^0.22.11",
+    "@types/cheerio": "^0.22.12",
     "@types/puppeteer": "^1.12.4",
     "ts-node": "^8.3.0",
-    "typescript": "^3.5.2"
+    "typescript": "^3.5.3"
   }
 }
